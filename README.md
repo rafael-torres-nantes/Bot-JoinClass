@@ -1,2 +1,2 @@
 # Bot-JoinClass
- Um Bot para Entrar nas Aulas Online Automaticamente
+Bot Desenvolvido por Futuros Grandes Engenheiros Programadores, com picas grandes
